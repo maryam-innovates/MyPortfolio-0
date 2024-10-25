@@ -1,0 +1,65 @@
+html {
+ background-image: url("bg6.jpg");
+}
+
+
+header{ 
+height: 50px;
+width: 25%;
+backdrop-filter: blur;
+background-color: (17, 25, 40, 0.75);
+text-align: center;
+padding: 3px;
+margin-inline-start:30%;
+justify-content: center;
+}
+
+li {
+   display:inline-block;
+   text-align:center;
+}
+
+.links{
+text-decoration: none;
+padding: 5px;
+color: #F5F5F5;
+font-size: 23px;
+cursor: pointer;
+font-family:sans-serif;
+font-size: 20px;
+}
+
+#into-line{
+   color: #F5F5F5;
+   font-family:sans-serif;
+     font-weight: 600;
+     font-size: 50px;
+     margin-inline-start:10%;
+     margin-top: 4%;
+     display: inline-block;
+}
+
+#a-cs-student{
+   color: aquamarine;
+   font-family:sans-serif;
+   font-weight: 600;
+   font-size: 50px;
+}
+
+.certificates{
+   height:400px;
+   width: 450px;
+   background-color: rgb(32, 32, 32);
+   display: inline-block;
+   
+}
+
+#hp-certificate,#pafala-certificate{
+   height:280px;
+   width: 450px;
+}
+
+#hp-certificates{
+   margin-inline-start: 10%;
+   margin-right: 2%;
+}
