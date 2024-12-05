@@ -21,7 +21,7 @@ li {
 
 .links{
 text-decoration: none;
-padding: 5px;
+padding: 2%; 
 color: #F5F5F5;
 font-size: 23px;
 cursor: pointer;
@@ -57,9 +57,9 @@ font-size: 20px;
 #hp-certificate,#pafala-certificate,#intern-volunteer,#hour-code,#google-soft-skills{
    height:280px;
    width: 450px;
+   margin:2%;
 }
 
-#hp-certificates{
+#intern-volunteer{
    margin-inline-start: 10%;
-   margin-right: 2%;
 }
