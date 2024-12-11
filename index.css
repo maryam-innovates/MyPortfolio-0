@@ -1,5 +1,6 @@
 html {
  background-image: url("bg6.jpg");
+ display:flex;
 }
 
 
@@ -21,7 +22,7 @@ li {
 
 .links{
 text-decoration: none;
-padding: 2%; 
+padding: 1%; 
 color: #F5F5F5;
 font-size: 23px;
 cursor: pointer;
@@ -47,10 +48,10 @@ font-size: 20px;
 }
 
 .certificates{
-   height:400px;
+   height:280px;
    width: 450px;
    background-color: rgb(32, 32, 32);
-   display: inline-block;
+   display: inline-flex;
    
 }
 
