@@ -55,14 +55,10 @@ font-size: 20px;
    
 }
 
-/* #hp-certificate,#pafala-certificate,#intern-volunteer,#hour-code,#google-soft-skills,#elements-of-ai,#cs50{
+ #hp-certificate,#pafala-certificate,#intern-volunteer,#hour-code,#google-soft-skills,#elements-of-ai,#cs50{
    height:280px;
    width: 450px;
-   margin:1%; */
+   margin:1%; 
 }
 
-img {
-   height:280px;
-   width: 450px;
-   margin:1%;
-}
+
