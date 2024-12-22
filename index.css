@@ -58,9 +58,5 @@ font-size: 20px;
 #hp-certificate,#pafala-certificate,#intern-volunteer,#hour-code,#google-soft-skills,#elements-of-ai,#cs50{
    height:280px;
    width: 450px;
-   margin:2%;
-}
-
-#intern-volunteer{
-   margin-inline-start: 10%;
+   margin:1%;
 }
